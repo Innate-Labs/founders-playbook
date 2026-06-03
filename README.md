@@ -6,7 +6,7 @@
 
 ## 在线阅读
 
-**📖 [点这里直接读 →](https://huuuboo.github.io/founder-playbook/)**
+**📖 [点这里直接读 →](https://innate-labs.github.io/founders-playbook/)**
 
 带左侧导航 + 全局搜索(⌘K)+ 中英对照切换的单页阅读器,自包含 HTML,所有内容一次加载、随时切换。
 
