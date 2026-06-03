@@ -1,8 +1,22 @@
+<div align="center">
+
 # 创始人手册 · 中文教学版
 
-> Anthropic 官方电子书《[The Founder's Playbook: Building an AI-Native Startup](https://claude.com/blog/the-founders-playbook)》的中文翻译 + 方法论拆解 + 案例演练。
->
-> 适合所有想把 AI 真正落进产品/工作里的人 —— 不只创始人,任何团队的产品落地新范式都在里面。
+**The Founder's Playbook — 中文教学版**
+
+Anthropic 官方电子书《[The Founder's Playbook: Building an AI-Native Startup](https://claude.com/blog/the-founders-playbook)》的中文翻译 + 方法论拆解 + 案例演练。
+
+适合所有想把 AI 真正落进产品/工作里的人 —— 不只创始人，任何团队的产品落地新范式都在里面。
+
+[![Read Online](https://img.shields.io/badge/📖_在线阅读-Read_Online-black?style=for-the-badge)](https://innate-labs.github.io/founders-playbook/)
+
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](./LICENSE)
+[![Source: Anthropic](https://img.shields.io/badge/Source-Anthropic-d97757.svg)](https://claude.com/blog/the-founders-playbook)
+[![GitHub stars](https://img.shields.io/github/stars/Innate-Labs/founders-playbook?style=social)](https://github.com/Innate-Labs/founders-playbook)
+
+</div>
+
+---
 
 ## 在线阅读
 
@@ -49,4 +63,4 @@
 
 ## License
 
-衍生内容(SOP 拆解、案例演练、阅读器代码)采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/),非商业使用,署名 + 相同方式分享。
+衍生内容(SOP 拆解、案例演练、阅读器代码)采用 [CC BY-NC-SA 4.0](./LICENSE),非商业使用,署名 + 相同方式分享。
